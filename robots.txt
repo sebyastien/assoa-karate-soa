@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sebyastien.github.io/assoa-karate-soa/sitemap.xml
